@@ -1,6 +1,6 @@
 # Envoy
 
-A Windows environment variable manager built with [egui](https://github.com/emilk/egui).
+A Windows environment variable manager made in Rust with [egui](https://github.com/emilk/egui).
 
 The built-in Windows editor stops at 2,047 characters per variable. Windows itself
 stores up to 32,767, so Envoy reads and writes the registry directly and treats

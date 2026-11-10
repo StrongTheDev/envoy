@@ -1,10 +1,12 @@
 [package]
 name = "envoy-windows"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "Envoy - Windows environment variable manager"
 repository = "https://github.com/StrongTheDev/envoy"
 license-file = "LICENSE.txt"
+keywords = ["env-variables", "windows", "egui", "path", "registry"]
+categories = ["gui", "config", "os::windows-apis"]
 
 [[bin]]
 name = "Envoy"
