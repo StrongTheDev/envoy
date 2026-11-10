@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 description = "Envoy - Windows environment variable manager"
 repository = "https://github.com/StrongTheDev/envoy"
+license-file = "LICENSE.txt"
 
 [[bin]]
 name = "Envoy"
